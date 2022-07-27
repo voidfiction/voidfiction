@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @voidfiction
+- 👋 Hi, I’m mece aka @voidfiction
 - 👀 I’m interested in reverse engineering games
 - 🌱 I’m currently learning LUA
 - 💞️ I’m looking to collaborate on reverse engineering tools
