@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @voidfiction
+- 👀 I’m interested in reverse engineering games
+- 🌱 I’m currently learning LUA
+- 💞️ I’m looking to collaborate on reverse engineering tools
+- 📫 How to reach me: find [mece](https://opencheattables.com/memberlist.php?mode=viewprofile&u=64) at https://opencheattables.com/
+
+<!---
+voidfiction/voidfiction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
